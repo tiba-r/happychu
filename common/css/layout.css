@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+#Main { background-image: url(/common/images/bg.jpg); width: 100%; text-align: center; }
+#Main_inner { width: 980px; margin: 0 auto; text-align: center; }
+#Main_inner #GV li {  display: inline-block; }
+
+@media screen and ( max-width: 640px )
+{
+
+}
